@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Theme</title>
+<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="">
+    <h4>LIGHT</h4>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#hero">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li> <a href="#contact">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header">SLO SURF</h2>
+    <header>
+      <img src="../Downloads/beach slo.jpg" width="1200" height="600" alt=""/>
+      <p class="tagline">Avia Beach's SurF Shop&nbsp;</p>
+    </header>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+    <h2 class="hidden">About</h2>
+    <p class="text_column"><strong><em>SLO SURF is a local surf shop in the beautiful Avila Beach. We have hundreds of products and are excited to serve the San Luis Obispo community.&nbsp; </em></strong><em>&nbsp; &nbsp; &nbsp;</em></p>
+    <p class="text_column">&nbsp;&nbsp;</p>
+<p class="text_column">&nbsp; </p>
+    <p class="text_column">&nbsp; </p>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;300 &nbsp;</h1>
+      <h4>Surf Products&nbsp;&nbsp;</h4>
+      <p>Custom and from top brands&nbsp;&nbsp;</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;1000+&nbsp;</h1>
+      <h4>Happy Customers</h4>
+      <p>We pride ourselves on the best customer service&nbsp;</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;</h1>
+      <h4>&nbsp;</h4>
+      <p>&nbsp;</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">&nbsp;</h1>
+      <h4>&nbsp;</h4>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+  <!-- Parallax Section -->
+  <section class="banner">
+    <h2 class="parallax">Welcome to SLO SURF! See Links Below</h2>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.surfline.com/surf-forecasts/san-luis-obispo-county/58581a836630e24c44879014"> &nbsp;www.slosurf.com</a></p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="www.gmail.com">&nbsp;kileygray16@gmail.com</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 class="parallax"><a href="kileygray16@gmail.com">com</a></h2>
+    <p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 class="parallax">&nbsp;</h2>
+<p>&nbsp;</p>
+<p class="parallax_description">&nbsp;</p>
+  </section>
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>ABOUT</h3>
+<p>We are a surf shop based in the beautiful Central California.&nbsp; We are excited to help our customers interested in surfing for all levels.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+    </article>
+    <article class="footer_column">
+      <h3>LOCATION</h3>
+      <p>123 Avila Beach Drive</p>
+      <p>&nbsp;San Luis Obispo,&nbsp; CA&nbsp; 93405</p>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  <section class="footer_banner" id="contact">
+    <h2 class="hidden">Footer Banner Section </h2>
+    <p class="hero_header">FOR THE SLO SURF SHOP UPDATES, CLICK BELOW&nbsp;</p>
+    <div class="button">subscribe</div>
+  </section>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2020- <strong>Light Theme</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
